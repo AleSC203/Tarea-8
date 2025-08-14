@@ -1,0 +1,71 @@
+{
+    "compactos": [
+        {
+            "id": "img1",
+            "imagen": "Compacto1.png",
+            "descripcion": "KIA PICANTO, Año 2016"
+        },
+        {
+            "id": "img2",
+            "imagen": "Compacto2.png",
+            "descripcion": "FORD FIESTA ST, Año 2015"
+        },
+        {
+            "id": "img3",
+            "imagen": "Compacto3.png",
+            "descripcion": "PEUGEOT 308, Año 2018"
+        }
+    ],
+    "medianos": [
+        {
+            "id": "img1",
+            "imagen": "Mediano1.png",
+            "descripcion": "HONDA CITY CAR, Año 2017"
+        },
+        {
+            "id": "img2",
+            "imagen": "Mediano2.png",
+            "descripcion": "MERCEDES SLS, Año 2015"
+        },
+        {
+            "id": "img3",
+            "imagen": "Mediano3.png",
+            "descripcion": "FORD FIESTA ST, Año 2016"
+        }
+    ],
+    "todoTerrenos": [
+        {
+            "id": "img1",
+            "imagen": "TodoTerreno1.png",
+            "descripcion": "TOYOTA FJ CRUISER, Año 2016"
+        },
+        {
+            "id": "img2",
+            "imagen": "TodoTerreno2.png",
+            "descripcion": "TOYOTA Prado, Año 2018"
+        },
+        {
+            "id": "img3",
+            "imagen": "TodoTerreno3.png",
+            "descripcion": "NISSAN JUKE, Año 2017"
+
+        }
+    ],
+    "familiares": [
+        {
+            "id": "img1",
+            "imagen": "Familiar1.png",
+            "descripcion": "TOYOTA SIENNA, Año 2018"
+        },
+        {
+            "id": "img2",
+            "imagen": "Familiar2.png",
+            "descripcion": "DODGE GRAND CARAVAN, Año 2015"
+        },
+        {
+            "id": "img3",
+            "imagen": "Familiar3.png",
+            "descripcion": "HYUNDAI ELANTRA, Año 2016"
+        }
+    ]
+}
